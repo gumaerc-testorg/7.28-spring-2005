@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 63eeefc4-3942-8726-db9a-3c7a33217f9c
 ---
@@ -34,10 +36,10 @@ ASSAYS FOR
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Replication (Replication Enzymes)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -85,10 +87,10 @@ Assay for Processivity.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Replication (Replication Fork)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -118,10 +120,10 @@ Assay for changes in DNA topology; distinguish supercoiled, relaxed, nicked, lin
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 Replication (Prok. System)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -187,10 +189,10 @@ Combines mutant extracts with biochemical fractionation to identify proteins req
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Replication (Euk. Systems)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -244,10 +246,10 @@ Uses gel filtration to separate molecules bound to a plasmid from molecules that
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 DNA Mismatch Repair
 {{< tdclose >}}
 {{< tdopen >}}
@@ -277,10 +279,10 @@ Assay of DNA repair _in vitro_; also used incorporation assay.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 DNA Repair II
 {{< tdclose >}}
 {{< tdopen >}}
@@ -325,10 +327,10 @@ Assay for homologous DNA pairing and branch migration.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Homologous Recombination Enzymes
 {{< tdclose >}}
 {{< tdopen >}}
@@ -358,10 +360,10 @@ Gel-shift assay to measure cooperative vs. non-cooperative DNA binding.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Meiotic Recombination
 {{< tdclose >}}
 {{< tdopen >}}
@@ -397,10 +399,10 @@ Assay for whether a protein bends DNA upon binding and position of bend.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Transposition
 {{< tdclose >}}
 {{< tdopen >}}
@@ -421,10 +423,10 @@ Assay for transposition _in vivo_ by determining movement of drug resistance to 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 13
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Transcription: Prok. Machinery and Promoters
 {{< tdclose >}}
 {{< tdopen >}}
@@ -481,10 +483,10 @@ Assay to indirectly measure promoter activity.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Transcription: Euk. Machinery and Promoters
 {{< tdclose >}}
 {{< tdopen >}}
@@ -520,10 +522,10 @@ Assay to determine the components of protein-DNA complex in a gel shift assay.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Transcription: Regulation II
 {{< tdclose >}}
 {{< tdopen >}}
@@ -550,10 +552,10 @@ Assay to determine the _in vivo_ binding site of proteins.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 RNA Processing I
 {{< tdclose >}}
 {{< tdopen >}}
@@ -589,10 +591,10 @@ Determination of RNA secondary structures.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 19
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 RNA Processing: Regulation
 {{< tdclose >}}
 {{< tdopen >}}
@@ -667,10 +669,10 @@ Translation: Basic Machinery II
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 23
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Translation: Regulation I
 {{< tdclose >}}
 {{< tdopen >}}

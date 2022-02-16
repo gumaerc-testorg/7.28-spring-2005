@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource provides information about solution of problem set 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-28-molecular-biology-spring-2005/5ca175d7f5084456b96454f18c15beaa_pset3_ans.pdf
+file: /media/courses/7-28-molecular-biology-spring-2005/5ca175d7f5084456b96454f18c15beaa_pset3_ans.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset3_ans.pdf
 uid: 5ca175d7-f508-4456-b964-54f18c15beaa
