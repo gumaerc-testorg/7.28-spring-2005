@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8f38f6ff-29fe-f6ff-a91a-44bfef5bf02e
 resourcetype: Document
 title: exm3_ans.pdf
 uid: d9987e8f-fb55-d473-c9df-b2d208cd77e4

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 63eeefc4-3942-8726-db9a-3c7a33217f9c
 resourcetype: Document
 title: rct_ans_3_16.pdf
 uid: cfb1fa42-a4fc-0e80-e391-cb9253224109

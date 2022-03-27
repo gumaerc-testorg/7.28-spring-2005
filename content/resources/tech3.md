@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 63eeefc4-3942-8726-db9a-3c7a33217f9c
 resourcetype: Document
 title: tech3.pdf
 uid: ac510ad7-5edc-cdef-10f7-73d4e11d6910
