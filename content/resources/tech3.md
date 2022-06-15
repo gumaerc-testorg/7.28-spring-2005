@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-28-molecular-biology-spring-2005/ac510ad75edccdef10f773d4e11d6910_tech3.pdf
+file: /courses/7-28-molecular-biology-spring-2005/ac510ad75edccdef10f773d4e11d6910_tech3.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

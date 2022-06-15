@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about additional handouts lecturewise
+  topics, techniques along with assay for.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -9,9 +11,9 @@ uid: 63eeefc4-3942-8726-db9a-3c7a33217f9c
 Additional Handouts
 -------------------
 
-Practice problems on Homologous Recombination ([PDF]({{< baseurl >}}/resources/rct_ans_3_16))
+Practice problems on Homologous Recombination ({{% resource_link cfb1fa42-a4fc-0e80-e391-cb9253224109 "PDF" %}})
 
-Laboratory Techniques ([PDF]({{< baseurl >}}/resources/tech3))
+Laboratory Techniques ({{% resource_link ac510ad7-5edc-cdef-10f7-73d4e11d6910 "PDF" %}})
 --------------------------------------------------------------
 
 The following techniques are described over the course of the semester in 7.28.

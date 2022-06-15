@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about solution of problem set 3.
-file: /media/courses/7-28-molecular-biology-spring-2005/5ca175d7f5084456b96454f18c15beaa_pset3_ans.pdf
+file: /courses/7-28-molecular-biology-spring-2005/5ca175d7f5084456b96454f18c15beaa_pset3_ans.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: pset3_ans.pdf
 uid: 5ca175d7-f508-4456-b964-54f18c15beaa
 ---
+This resource provides information about solution of problem set 3.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about assigned readings are from the
+  course text.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,28 +27,28 @@ sOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ({{% resource_link c4d91867-efcd-272b-87c8-d6bb953367b8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset1_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Problem Set 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset2))
-{{< tdclose >}}
-{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset2_ans))
+({{% resource_link a681454e-1708-ce88-0c53-ab0ce3c95fa9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset3))
+Problem Set 2 ({{% resource_link 9c86d904-20b6-2784-a9fd-18eb31f376b4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset3_ans))
+({{% resource_link 4818be14-05c9-5514-2651-19ecb037092f "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ({{% resource_link cf3fbff0-ba0e-1c89-aaa8-35a6015bbd94 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 5ca175d7-f508-4456-b964-54f18c15beaa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ DISCUSSION QUESTIONS
 {{< tdopen >}}
 
 
-Writing Assignment 1 ([PDF]({{< baseurl >}}/resources/writing1))
+Writing Assignment 1 ({{% resource_link 17b0f5a0-d3b5-243c-4e2b-a2908304f931 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -96,7 +98,7 @@ To address the ability of MtMcm protein to displace large DNA fragments, the aut
 {{< tdopen >}}
 
 
-Writing Assignment 2 ([PDF]({{< baseurl >}}/resources/writing2))
+Writing Assignment 2 ({{% resource_link 26d0718b-22f4-9f66-ceb0-ae05272b2a55 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -115,7 +117,7 @@ The authors also conclude that Brh2 preferentially promotes Rad51 filament forma
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Writing Assignment 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/writing3))
+Writing Assignment 3 ({{% resource_link d44802fd-8769-a25e-c7c2-63be7fc24df8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -142,7 +144,7 @@ The paper by Gradia et al. addresses the mechanism by which the human MSH2-MSH6 
 
 The authors go on to argue that the MSH2-MSH6 complex interacts with DNA similarly to the sliding clamp complex associated with the DNA replication machinery.  A possible prediction of this model is that a single MSH2-MSH6 complex may be able to direct the repair of multiple DNA mismatches present on a single plasmid template.  Design an experiment to test this hypothesis.  Assume you have available both purified MSH2-MSH6 and a cell extract that contains all the proteins other than MSH2-MSH6 that are needed to promote mismatch repair _in vitro_.  You may include a figure if you wish, in addition to the 2 pages of written text.
 
-The following sample work is from an assignment given during the Spring 2004 version of 7.28. ([PDF]({{< baseurl >}}/resources/writing_sam)) (Courtesy of Nathan McNulty. Used with permission.)
+The following sample work is from an assignment given during the Spring 2004 version of 7.28. ({{% resource_link 4d95122c-f7e9-9515-bfb9-17e060aca46a "PDF" %}}) (Courtesy of Nathan McNulty. Used with permission.)
 
 Criteria for Evaluation
 -----------------------

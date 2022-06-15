@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on lecturewise topics covered in the
+  class.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
