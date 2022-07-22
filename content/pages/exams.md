@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains 3 exams with their solutions.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 8f38f6ff-29fe-f6ff-a91a-44bfef5bf02e
 ---
@@ -7,8 +11,8 @@ uid: 8f38f6ff-29fe-f6ff-a91a-44bfef5bf02e
 Exams with Solutions
 --------------------
 
-Exam 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exm1_ans))
+Exam 1 ({{% resource_link d85847a4-515c-d2d1-0c04-e482e31f0805 "PDF" %}})
 
-Exam 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exm2_ans))
+Exam 2 ({{% resource_link 8debe237-b17c-28af-8cf0-f19aa2bb928f "PDF" %}})
 
-Exam 3 ([PDF]({{< baseurl >}}/resources/exm3_ans))
+Exam 3 ({{% resource_link d9987e8f-fb55-d473-c9df-b2d208cd77e4 "PDF" %}})
