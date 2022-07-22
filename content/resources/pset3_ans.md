@@ -5,6 +5,7 @@ file: /courses/7-28-molecular-biology-spring-2005/5ca175d7f5084456b96454f18c15be
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset3_ans.pdf
 uid: 5ca175d7-f508-4456-b964-54f18c15beaa
 ---
 This resource provides information about solution of problem set 3.
-

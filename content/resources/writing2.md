@@ -6,6 +6,7 @@ file: /courses/7-28-molecular-biology-spring-2005/26d0718b22f49f66ceb0ae05272b2a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: writing2.pdf
 uid: 26d0718b-22f4-9f66-ceb0-ae05272b2a55
 ---
 This resource provides information about about characterization of the BRCA2homolog, and Brh2.
-
